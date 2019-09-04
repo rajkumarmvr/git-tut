@@ -1,2 +1,0 @@
-# git-tut
-Git Tutorial
